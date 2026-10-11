@@ -1,0 +1,4 @@
+food_item,total_prepared,total_consumed,total_wasted
+Chapati,480.0,390.0,90.0
+Rice,330.0,265.0,65.0
+Dal,255.0,223.0,32.0

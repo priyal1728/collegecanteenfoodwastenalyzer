@@ -1,0 +1,10 @@
+date,food_item,prepared_quantity,consumed_quantity,wasted_quantity
+2026-10-01,Rice,100,80,20
+2026-10-01,Dal,80,70,10
+2026-10-01,Chapati,150,120,30
+2026-10-02,Rice,110,90,20
+2026-10-02,Dal,85,75,10
+2026-10-02,Chapati,160,130,30
+2026-10-03,Rice,120,95,25
+2026-10-03,Dal,90,78,12
+2026-10-03,Chapati,170,140,30
