@@ -160,22 +160,6 @@ rate_fig = px.bar(
 rate_fig.update_layout(template="plotly_white", showlegend=False, xaxis_title="", yaxis_title="Percentage (%)")
 st.plotly_chart(rate_fig, use_container_width=True)
 
-st.subheader("📈 Daily Food Quantity Trend")
-chart_df = daily_report.copy()
-chart_df["date_label"] = chart_df["date"].dt.strftime("%d %b")
-
-fig_daily = px.bar(
-    chart_df,
-    x="date_label",
-    y=["prepared_quantity", "consumed_quantity", "wasted_quantity"],
-    barmode="group",
-    title="Prepared, Consumed, and Wasted Food by Date",
-    color_discrete_sequence=["#5B8DEF", "#4CAF50", "#FF6B6B"],
-    labels={"date_label": "Date", "value": "Quantity (kg)"},
-)
-fig_daily.update_layout(template="plotly_white", xaxis_tickangle=-30)
-st.plotly_chart(fig_daily, use_container_width=True)
-
 st.subheader("📌 Executive Summary")
 summary_col1, summary_col2 = st.columns(2)
 with summary_col1:
