@@ -1,0 +1,29 @@
+date,food_item,prepared_kg,served_kg,waste_kg,meal
+2026-10-01,Rice,20,16,4,Lunch
+2026-10-01,Chapati,15,13,2,Lunch
+2026-10-01,Dal,10,9,1,Lunch
+2026-10-01,Vegetable Curry,12,10,2,Lunch
+2026-10-02,Rice,18,12,6,Lunch
+2026-10-02,Chapati,16,14,2,Lunch
+2026-10-02,Dal,11,10,1,Lunch
+2026-10-02,Vegetable Curry,12,9,3,Lunch
+2026-10-03,Rice,22,17,5,Lunch
+2026-10-03,Chapati,18,15,3,Lunch
+2026-10-03,Dal,12,11,1,Lunch
+2026-10-03,Poha,8,7,1,Breakfast
+2026-10-04,Rice,20,18,2,Lunch
+2026-10-04,Chapati,17,15,2,Lunch
+2026-10-04,Dal,11,10,1,Lunch
+2026-10-04,Poha,9,8,1,Breakfast
+2026-10-05,Rice,24,17,7,Lunch
+2026-10-05,Chapati,20,16,4,Lunch
+2026-10-05,Dal,13,11,2,Lunch
+2026-10-05,Vegetable Curry,14,10,4,Lunch
+2026-10-06,Rice,19,16,3,Lunch
+2026-10-06,Chapati,16,14,2,Lunch
+2026-10-06,Dal,10,9,1,Lunch
+2026-10-06,Poha,8,6,2,Breakfast
+2026-10-07,Rice,21,16,5,Lunch
+2026-10-07,Chapati,18,15,3,Lunch
+2026-10-07,Dal,12,10,2,Lunch
+2026-10-07,Vegetable Curry,13,9,4,Lunch
